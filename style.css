@@ -1,0 +1,100 @@
+.body{
+background-image: url(background.jpg);
+display: block;
+background-size: cover;
+}
+
+.contenitore{
+  width: 900px;
+  width: 800px;
+  opacity: 0.8;
+  margin: auto;
+  background-color: black;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.logo{
+  text-align: center;
+  margin top: 10px;
+}
+.titolo{
+  font-style: normal;
+  color: #00ff00;
+  font-size: 30px;
+  text-align: center;
+}
+
+.barra{
+  background-color: #00ff00;
+  border-radius: 10px 10px 10px 10px;
+  text-align:center;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.elenco{
+  display: inline-block;
+  width: 60%;
+  margin-top: 10px;
+}
+
+.riga{
+  font-family: sans-serif;
+  font-size: 20px;
+  display: inline-block;
+  color: white;
+  margin-bottom: 5px;
+  width: 90%;
+}
+
+.indirizzo{
+  font-family: sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  color: white;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.caricamento{
+  font-family: sans-serif;
+  font-size: 10px;
+  color: white;
+}
+
+.barra_caricamento{
+  background-color: orange;
+  border-radius: 5px 5px 5px 5px;
+  width: 200px;
+  height: 20px;
+  margin-top: 5px;
+}
+
+.barra_caricamento2{
+  background-color: green;
+  border-radius: 5px 5px 5px 5px;
+  width: 300px;
+  height: 20px;
+  margin-top: 5px;
+}
+
+.barra_caricamento3{
+  background-color: red;
+  border-radius: 5px 5px 5px 5px;
+  width: 100px;
+  height: 20px;
+  margin-top: 5px;
+}
+
+.contenitore-elenco{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.firma{
+text-align: center;
+color: #00ff00;
+}
